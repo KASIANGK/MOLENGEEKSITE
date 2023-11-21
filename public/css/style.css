@@ -1,0 +1,205 @@
+body {
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+    width: 100%;
+    height: 100vh;
+    background-color: rgb(255, 255, 255);
+    font-family: 'Open Sans', sans-serif;
+    line-height: 200%;
+}
+
+.navbarclassOG2 {
+    height: 12%;
+    display: flex;
+    display: flex;
+    background-color: rgb(255, 255, 255);
+}
+
+
+.navImg {
+    display: flex;
+    width: 300px;
+    border-bottom: solid lightgrey 1px;
+    border-right: solid lightgrey 1px;
+}
+
+.navImg img {
+    display: flex;
+    padding: 6% 25% 9% 25%;
+    width: 120px;
+    height: 65px;
+   
+}
+
+.navbarclass {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 1020px;
+    border-bottom: 1px lightgrey solid;
+    border-right: 1px lightgrey solid;
+   
+   
+}
+
+nav {
+    padding-right: 45%;
+    font-size: 5%;
+    white-space: nowrap;
+    font-size: 13px;
+    
+}
+
+nav ul {
+    list-style-type: none;
+    display: flex; 
+    gap: 14%;
+}
+
+nav ul li a {
+    text-decoration: none; 
+    color: black; 
+}
+
+
+.navbarclass2 {
+    width: 350px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-bottom: 1px lightgrey solid;
+    font-size: 5%;
+   
+}
+
+.navbarclass2 a {
+    padding-left: 50%;
+    text-decoration: none; 
+    color: black; 
+    
+}
+
+
+.First {
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding-top: 2%;
+}
+
+.First p {
+    padding-left: 30%;
+}
+
+.Titre p {
+    color: rgb(139, 50, 222);
+}
+
+.Corps {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.Corps p {
+    width: 70%;
+    font-size: 95%;
+}
+
+#Intro {
+    margin-left: -15%;
+    padding-top: 2%;
+}
+
+.Corps ul {
+    padding-left: 17%;
+}
+
+
+
+.Corps2 {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    padding-top: 3%;
+}
+
+.Corps2 p {
+    width: 70%;
+    font-size: 95%;
+}
+
+.Corps2 h1 {
+    padding-right: 35%;
+}
+
+footer {
+    background-color: rgb(30, 28, 28);
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 300px;
+    justify-content: center;
+    align-items: center;
+    padding-top: 7%;
+    margin-top: 3%;
+    padding-bottom: 40%;
+}
+
+.footer-content {
+    height: 10%;
+    display: flex; 
+    flex-direction: row;
+    gap: 14%;
+}
+
+.footer-content a {
+    text-decoration: none;
+    color: white;
+    display: flex;
+    padding-top: 15%;
+    
+    
+}
+
+.TextF {
+    display: flex;
+    height: 300px;
+}
+
+.TexteFooter {
+    display: flex;
+    padding-bottom: 3%;
+    
+}
+
+#Hr {
+    color: rgb(77, 74, 74);
+    padding-top: 2%;
+    padding-left: 10%;
+}
+
+
+.ImgFooter {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.ImgFooter img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10%;
+}
+
+
+.Copyright {
+    color: lightgrey;
+}
