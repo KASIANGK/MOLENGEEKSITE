@@ -217,17 +217,3 @@ footer {
     justify-content: center;
     align-items: center;
 }
-
-
-.ImgFooter img {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    padding-top: 5%;
-}
-
-
-.Copyright {
-    color: rgb(69, 65, 65);
-    padding-top: 5%;
-}
